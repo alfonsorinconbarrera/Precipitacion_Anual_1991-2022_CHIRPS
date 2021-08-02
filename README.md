@@ -11,10 +11,3 @@ El algoritmo i) está construido alrededor de una climatología de 0.05 ° que i
 
 Composición y análisis:
 Alfonso rincón barrera
-Gestión digital:
-Fredy alberto hernández corredor
-
-Postproceso y aplicación:
-Oscar hernández corredor 
-Daniel sánchez sánchez
-Juan barrera sarmiento
