@@ -10,6 +10,4 @@ El algoritmo i) está construido alrededor de una climatología de 0.05 ° que i
  https://www.nature.com/articles/sdata201566.
 
 Composición y análisis: 
-Alfonso rincón barrera
-
-Fredy Corredor Hernández
+Alfonso rincón barrera - Fredy hernández corredor
