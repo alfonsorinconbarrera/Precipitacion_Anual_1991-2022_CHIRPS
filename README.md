@@ -11,4 +11,5 @@ El algoritmo i) está construido alrededor de una climatología de 0.05 ° que i
 
 Composición y análisis: 
 Alfonso rincón barrera
+
 Fredy Corredor Hernández
